@@ -1,0 +1,26 @@
+* {
+  visibility: hidden;
+}
+#search-form {
+  visibility: visible;
+  border-radius: 15px 15px 15px 15px;
+-moz-border-radius: 15px 15px 15px 15px;
+-webkit-border-radius: 15px 15px 15px 15px;
+border: 2px solid #afafaf;
+  margin-top: 750px
+}
+#search {
+  visibility: visible;
+}
+body {
+  background-color: #afafaf;
+}
+.ytd-watch-flexy {
+  visibility: visible;
+}
+.ytd-search {
+  visibility: visible;
+}
+#guide {
+  visibility: hidden;
+}
